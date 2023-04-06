@@ -166,9 +166,61 @@ input[type=text] {
 .container3{
     min-width: 1200px;
     min-height: 500px;
-    background-color: #14213d;
+    background-color: #2ec4b6;
 }
 .con3-ele{
     min-width: 800px;
     margin: 0 500px;
+}
+.box3{
+    width: 45%;
+    height: 400px;
+    background-color: #2d6a4f;
+    float: left;
+   
+    
+}
+.box4{
+    width: 45%;
+    height: 400px;
+    background-color: #9b5de5;
+    overflow: hidden; 
+    
+}
+.container4{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #14213d;
+}
+.con4-ele{
+    min-width: 800px;
+    margin: 0 500px;
+}
+.box-1{
+    width: 20%;
+    height: 400px;
+    background-color: #2d6a4f;
+    float: left;
+}
+.box-2{
+    width: 20%;
+    height: 400px;
+    background-color: #9b5de5;
+    overflow: hidden; 
+    float: left;
+    
+}
+.box-3{
+    width: 20%;
+    height: 400px;
+    background-color: #f6bd60;
+    overflow: hidden; 
+    float: left;
+    
+}
+.box-4{
+    width: 20%;
+    height: 400px;
+    background-color: #edede9;
+    overflow: hidden;   
 }
