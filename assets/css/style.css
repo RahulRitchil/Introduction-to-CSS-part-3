@@ -156,11 +156,88 @@ input[type=text] {
 .container2{
     min-width: 1200px;
     min-height: 500px;
-    background-color: #f6bd60;
+    background-color: #ccd5ae;
+    
 }
 .con2-ele{
-    min-width: 800px;
-    margin: 0 500px;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    
+}
+.c2box1{
+    width: 50%;
+    min-height: 500px;
+}
+.c2box1 h1{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+.c2box1 p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+.c2box1 a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.aclass1{
+    background-color: #2d6a4f;
+    padding: 12px 40px;
+    border-radius: 25px;
+    color:#edede9;
+}
+[class*="aclass"]:hover{
+    background-color: #87986a;
+}
+.aclass2{
+    background-color: #f6bd60;
+    padding: 12px 36px;
+    border-radius: 25px;
+    color:#000000;
+}
+.aclass3{
+    background-color: #14213d;
+    padding: 12px 25px;
+    border-radius: 25px;
+    color:#edede9;
+}
+.aclass4{
+    background-color: #ffb4a2;
+    padding: 12px 40px;
+    border-radius: 25px;
+    color:#000000;
+}
+.c2box2{
+    width: 50%;
+    min-height: 500px;
+}
+.c2box2sb1{
+    width: 90%;
+    min-height: 400px;
+    background-color: #edede9;
+    margin: 50px auto;
+    border-radius: 5px;
+}
+.c2box2sb1 h1{
+    padding-top: 25px;
+    padding-left: 14px;
+    padding-bottom: 15px;
+}
+.c2box2sb1 img{
+    width: 95%;
+    height: 250px;
+    margin: 0px 0px 0px 14px;
+    border-radius: 5px;
 }
 /* container2 end */
 .container3{
@@ -223,4 +300,18 @@ input[type=text] {
     height: 400px;
     background-color: #edede9;
     overflow: hidden;   
+}
+.c2box2sb1 a{
+    background-color: #2d6a4f;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 25px;
+    color:#edede9;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.c2box2sb1 a:hover{
+    background-color: #87986a;
 }
