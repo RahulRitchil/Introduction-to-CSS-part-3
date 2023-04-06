@@ -275,7 +275,26 @@ input[type=text] {
 .container4 p{
     color: #edede9;
 }
+.c2box2h{
+    color: #000000;
+}
 /* container4 end */
+
+/* container5 start */
+.container5{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #f5ebe0;
+}
+/* container5 end */
+
+/* container6 start */
+.container6{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #8ecae6;
+}
+/* container6 end */
 .container10{
     min-width: 1200px;
     min-height: 500px;
