@@ -239,35 +239,47 @@ input[type=text] {
     margin: 0px 0px 0px 14px;
     border-radius: 5px;
 }
+.c2box2sb1 a{
+    background-color: #2d6a4f;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 25px;
+    color:#edede9;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.c2box2sb1 a:hover{
+    background-color: #87986a;
+}
 /* container2 end */
+
+/* container3 start */
 .container3{
     min-width: 1200px;
     min-height: 500px;
-    background-color: #2ec4b6;
+    background-color: #ffd7ba;
 }
-.con3-ele{
-    min-width: 800px;
-    margin: 0 500px;
-}
-.box3{
-    width: 45%;
-    height: 400px;
-    background-color: #2d6a4f;
-    float: left;
-   
-    
-}
-.box4{
-    width: 45%;
-    height: 400px;
-    background-color: #9b5de5;
-    overflow: hidden; 
-    
-}
+/* container3 end */
+
+/* container4 start */
 .container4{
     min-width: 1200px;
     min-height: 500px;
-    background-color: #14213d;
+    background-color: #3d405b;
+}
+.container4 h1{
+    color: #edede9;
+}
+.container4 p{
+    color: #edede9;
+}
+/* container4 end */
+.container10{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: red;
 }
 .con4-ele{
     min-width: 800px;
@@ -301,17 +313,4 @@ input[type=text] {
     background-color: #edede9;
     overflow: hidden;   
 }
-.c2box2sb1 a{
-    background-color: #2d6a4f;
-    text-decoration: none;
-    display: inline-block;
-    padding: 12px 40px;
-    border-radius: 25px;
-    color:#edede9;
-    margin-left: 15px;
-    margin-top: 15px;
-    font-weight: 700;
-}
-.c2box2sb1 a:hover{
-    background-color: #87986a;
-}
+
