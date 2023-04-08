@@ -465,6 +465,7 @@ input[type=text] {
     min-width: 1200px;
     min-height: 500px;
     background-color: #14213d;
+    padding-bottom: 35px;
 }
 .con8-ele{
     width: 70%;
@@ -475,7 +476,6 @@ input[type=text] {
 .c8box1{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #2d6a4f; */
 }
 .c8box1 a{
     text-decoration: none;
@@ -497,7 +497,6 @@ input[type=text] {
 .c8box2{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #9b5de5;    */
 }
 .c8box2 a{
     text-decoration: none;
@@ -524,7 +523,6 @@ input[type=text] {
 .c8box-sb1{
     min-width: 21%;
     min-height: 160px;
-    /* background-color: brown; */
 }
 .c8box-sb1 a{
     text-decoration: none;
@@ -546,7 +544,6 @@ input[type=text] {
 .c8box-sb2{
     min-width: 20%;
     min-height: 160px;
-    /* background-color: white; */
 }
 .c8box-sb2 a{
     text-decoration: none;
@@ -568,7 +565,6 @@ input[type=text] {
 .c8box-sb3{
     min-width: 20%;
     min-height: 160px;
-    /* background-color: #2d6a4f; */
 }
 .c8box-sb3 a{
     text-decoration: none;
@@ -590,7 +586,6 @@ input[type=text] {
 .c8box-sb4{
     min-width: 21%;
     min-height: 160px;
-    /* background-color: #8ecae6; */
 }
 .c8box-sb4 a{
     text-decoration: none;
@@ -618,7 +613,6 @@ input[type=text] {
 .c8box-sb5{
     min-width: 21%;
     min-height: 160px;
-    /* background-color: brown; */
 }
 .c8box-sb5 a{
     text-decoration: none;
@@ -640,7 +634,6 @@ input[type=text] {
 .c8box-sb6{
     min-width: 20%;
     min-height: 160px;
-    /* background-color: white; */
 }
 .c8box-sb6 a{
     text-decoration: none;
@@ -662,7 +655,6 @@ input[type=text] {
 .c8box-sb7{
     min-width: 20%;
     min-height: 160px;
-    /* background-color: #2d6a4f; */
 }
 .c8box-sb7 a{
     text-decoration: none;
@@ -684,7 +676,6 @@ input[type=text] {
 .c8box-sb8{
     min-width: 21%;
     min-height: 160px;
-    /* background-color: #8ecae6; */
 }
 .c8box-sb8 a{
     text-decoration: none;
@@ -712,7 +703,6 @@ input[type=text] {
 .c8box-sb9{
     min-width: 21%;
     min-height: 160px;
-    background-color: brown;
 }
 .c8box-sb9 a{
     text-decoration: none;
@@ -734,7 +724,6 @@ input[type=text] {
 .c8box-sb10{
     min-width: 20%;
     min-height: 160px;
-    background-color: white;
 }
 .c8box-sb10 a{
     text-decoration: none;
@@ -756,7 +745,6 @@ input[type=text] {
 .c8box-sb11{
     min-width: 20%;
     min-height: 160px;
-    background-color: #2d6a4f;
 }
 .c8box-sb11 a{
     text-decoration: none;
@@ -778,7 +766,6 @@ input[type=text] {
 .c8box-sb12{
     min-width: 21%;
     min-height: 160px;
-    background-color: #8ecae6;
 }
 .c8box-sb12 a{
     text-decoration: none;
@@ -806,7 +793,6 @@ input[type=text] {
 .c9box1{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #2d6a4f; */
 }
 .c9box1 a{
     text-decoration: none;
@@ -828,7 +814,6 @@ input[type=text] {
 .c9box2{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #9b5de5;    */
 }
 .c9box2 a{
     text-decoration: none;
@@ -846,7 +831,6 @@ input[type=text] {
 .c9box2 a:hover{
     opacity: 1;
 }
-/*  */
 .con10-ele{
     width: 70%;
     margin: 0 auto;
@@ -856,7 +840,6 @@ input[type=text] {
 .c10box1{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #2d6a4f; */
 }
 .c10box1 a{
     text-decoration: none;
@@ -878,7 +861,6 @@ input[type=text] {
 .c10box2{
     min-width: 47%;
     min-height: 160px;
-    /* background-color: #9b5de5;    */
 }
 .c10box2 a{
     text-decoration: none;
@@ -897,3 +879,18 @@ input[type=text] {
     opacity: 1;
 }
 /* container8 end */
+
+/* container9 start */
+.container9{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #14213d;
+    padding-bottom: 35px;
+}
+.cont9-ele{
+    max-width: 50%;
+    min-height: 500px;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+/* container9 end */
