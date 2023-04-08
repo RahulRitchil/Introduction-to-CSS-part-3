@@ -302,6 +302,7 @@ input[type=text] {
     min-height: 500px;
     background-color: #14213d;
     overflow: hidden;
+    padding-bottom: 64px;
 }
 .con7-ele{
     width: 70%;
@@ -355,13 +356,6 @@ input[type=text] {
     text-align: center;
     font-weight: 600;
 }
-/* .c7box1-a{
-    background-color: #14213d;
-    padding: 15px 65px;
-    color: #edede9;
-    font-weight: 600; 
-    border-radius: 30px;    
-} */
 .c7box2 a{
     text-decoration: none;
     display: block;
@@ -464,46 +458,59 @@ input[type=text] {
     text-align: center;
     margin-top: 65px;
 }
-/* .c7box1-a:hover{
-    background-color: #87986a;
-} */
-
 /* container7 end */
-.container10{
+
+/* container8 start */
+.container8{
     min-width: 1200px;
     min-height: 500px;
     background-color: red;
 }
-.con4-ele{
-    min-width: 800px;
-    margin: 0 500px;
+.con8-ele{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
 }
-.box-1{
-    width: 20%;
+.c8box1{
+    min-width: 47%;
     height: 400px;
     background-color: #2d6a4f;
-    float: left;
 }
-.box-2{
-    width: 20%;
-    height: 400px;
-    background-color: #9b5de5;
-    overflow: hidden; 
-    float: left;
-    
+.c8box1 a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 25px auto 50px auto;
+    padding: 50px 0px;
+    background-color: #ffb4a2;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #000000;
 }
-.box-3{
-    width: 20%;
-    height: 400px;
-    background-color: #f6bd60;
-    overflow: hidden; 
-    float: left;
-    
-}
-.box-4{
-    width: 20%;
-    height: 400px;
-    background-color: #edede9;
-    overflow: hidden;   
+.c8box1 a:hover{
+    background-color: #87986a;
 }
 
+.c8box2{
+    min-width: 47%;
+    height: 400px;
+    background-color: #9b5de5;   
+}
+.c8box2 a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin: 25px auto 50px auto;
+    padding: 50px 0px;
+    background-color: #ffb4a2;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #000000;
+}
+.c8box2 a:hover{
+    background-color: #87986a;
+}
+/* container8 end */
