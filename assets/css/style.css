@@ -936,3 +936,144 @@ input[type=text] {
     border-radius: 5px;
 }
 /* container9 end */
+
+/* container10 start */
+.container10{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #14213d;
+    padding-bottom: 35px;
+}
+.cont10-ele{
+    max-width: 50%;
+    min-height: 500px;
+    margin: 0 auto;
+}
+.cont10-ele video{
+    width: 100%;
+    height: auto;
+    border: 2px solid #edede9;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.cont10-ele h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    color: #edede9;
+    margin-bottom: 25px;
+    padding-top: 85px;
+}
+.cont10-ele p{
+    font-size: 20px;
+    font-weight: 700;
+    color: #edede9;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+    
+}
+.cont10-ele a{
+    color: #ffb4a2;
+}
+.cont10-ele a:hover{
+    color: #2d6a4f;
+}
+/* container10 end */
+
+/* container11 start */
+.container11{
+    min-width: 1200px;
+    min-height: 500px;
+    background-color: #14213d;
+    padding-bottom: 35px;
+}
+.cont11-ele{
+    max-width: 60%;
+    min-height: 500px;
+    margin: 0 auto;
+}
+.cont11-ele h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: #edede9;
+    padding-top: 35px;
+}
+.img-box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.im-1 img{
+    width: 140px;
+    height: 160px;
+    border: 2px solid #edede9;
+    border-radius: 5px;
+    margin-top: 35px;
+}
+.imgbox-ar{
+    display: flex;
+    justify-content: space-between;
+}
+.imb-ar1{
+    min-height: 50px;
+    min-width: 196px;
+    margin-top: 35px;
+}
+.imb-ar1 p{
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #edede9;
+}
+.cont11-ele a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+.cont11-a{
+    background-color: #2d6a4f;
+    padding: 15px 65px;
+    border-radius: 30px;
+    font-weight: 600;
+    color: #edede9;
+    opacity: 0.9;
+}
+.cont11-a:hover{
+    opacity: 1;
+}
+/* container11 end */
+
+/* container12 start */
+.container12{
+    min-width: 1200px;
+    min-height: 440px;
+    background-color: #edede9;
+    padding-bottom: 35px;
+}
+.cont12-ele{
+    width: 70%;
+    min-height: 440px;
+    margin: 0 auto;
+}
+.cont12-ele img{
+    width: 180px;
+    height: 140px;
+}
+.cont12-ele h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    padding: 80px 0px 25px 0px;
+}
+.cont12-ele p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+.cont12-ele a{
+    display: block;
+    text-align: center;
+}
+/* container12 end */
