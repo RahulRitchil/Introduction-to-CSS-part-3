@@ -1195,3 +1195,73 @@ input[type=text] {
     opacity: 1;
 }
 /* container14 end */
+.footer-container{
+    min-width: 1200px;
+    min-height: 440px;
+    background-color: #14213d;
+    padding-top: 40px;
+}
+.footer-a{
+    padding: 25px 0px;
+}
+.footer-a a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+}
+.footer-a a:hover{
+    opacity: 0.9;
+}
+.footer-a1{
+    background-color: #edede9;
+    padding: 12px 16px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.footer-a3{
+    background-color: #edede9;
+    padding: 12px 16px;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.float-a {
+    float: right;
+    color: #edede9;
+    margin-right: 40px;
+}
+.footer-a2{
+    color: #edede9;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    margin: 3px;
+}
+.footer-a2:hover{
+    color: #0eec88;
+}
+.footer-i img{
+    width: 25px;
+    height: 25px;
+    
+}
+.footer-i a{
+    /* float: right; */
+    margin-top: 25px;
+    margin-left: 50px;
+    opacity: 0.8;
+    
+    
+}
+.footer-i a:hover{
+    opacity: 1;
+}
+.footer-i{
+    padding-right: 40px;
+    
+}
+.footer-p{
+    height: 50px;
+    background-color: #0eec88;
+}
