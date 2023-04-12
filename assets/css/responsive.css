@@ -1,0 +1,86 @@
+/* Extra large */
+@media (min-width: 1200px) and (max-width: 1400px){
+
+    .logo {
+        padding: 14px 0px 14px 22px;
+    }
+    .dropbtn {
+        padding: 34px 10px;
+        margin-left: 8px;
+    }
+    #boot1 {
+        padding-right: 10px;
+    }
+    #boot1 a {
+        padding: 34px 8px;
+    }
+    .con1-ele {
+        margin: 0 156px;
+    }
+    .dropdown-content-box {
+        width: 90%;
+    }
+    .dropdown-content-box1 {
+        width: 90%;
+    }
+    .dropdown-content-box2 {
+        width: 90%;
+    }
+    .con2-ele {
+        width: 90%;
+    }
+    .c2box1 {
+        width: 45%;
+    }
+    .c2box2 {
+        width: 55%;
+    }
+    .con7-ele {
+        width: 90%;
+    }
+    .con7-ele2 {
+        width: 90%;
+    }
+    .con7-ele3 {
+        width: 90%;
+    }
+    .con8-ele {
+        width: 90%;
+    }
+    .con8-ele2 {
+        width: 90%;
+    }
+    .con8-ele3 {
+        width: 90%;
+    }
+    .con8-ele4 {
+        width: 90%;
+    }
+    .con9-ele {
+        width: 90%;
+    }
+    .con10-ele {
+        width: 90%;
+    }
+    .cont11-eleb {
+        width: 90%;
+    }
+    .cont9-ele {
+        max-width: 70%;
+    }
+    .cont10-ele {
+        max-width: 70%;
+    }
+    .cont11-ele {
+        max-width: 90%;
+    }
+    .cont12-ele {
+        width: 90%;
+    }
+    .cont13-ele {
+        width: 90%;
+    }
+    .cont14-ele {
+        width: 90%;
+    }
+}
